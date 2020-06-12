@@ -1,6 +1,6 @@
 # Extemporize a Jazz Solo with an LSTM Network
 
-Implement a model that uses an LSTM to generate music.
+Implemented a model that uses an LSTM to generate music.
 
-- Apply an LSTM to music generation.
-- Generate your own jazz music with deep learning.
+- Applyed an LSTM to music generation.
+- Generated our own jazz music with deep learning.
